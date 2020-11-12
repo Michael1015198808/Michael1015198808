@@ -2,7 +2,7 @@
 
 I'm an undergraduate from Nanjing University, major in Computer Science and Technology.
 
-I like things that have a beautiful form. Thus, I'm interested in mathematics and functional programming languages and the math model behind them.
+I like things that have beautiful forms. Thus, I'm interested in mathematics and functional programming languages and the math model behind them.
 
 ### Current Status
 
