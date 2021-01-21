@@ -20,7 +20,7 @@ I'm interested in practical technologies as well.
 
 - Rust Programming Language
 
-- ~~installation CUDA~~
+- ~~installation of CUDA~~
 
 #### 📘 Reading <!-- :blue_book: -->
 
