@@ -8,6 +8,8 @@ I like things that have beautiful forms. Thus, I'm interested in mathematics and
 
 I'm interested in practical technologies as well.
 
+Fan of   <img height="20" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/python.svg" /> <img height="20" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/pytorch.svg" /> <img height="20" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/vim.svg" /> <img height="20" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linux.svg" />
+
 ### Current Status
 
 #### 🌱 Studying <!-- :seedling: -->
