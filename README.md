@@ -1,6 +1,6 @@
 ### Basic Info
 
-I'm an undergraduate from Nanjing University, major in Computer Science and Technology.
+I'm an undergraduate at Nanjing University, major in Computer Science and Technology.
 
 Like many students in this major, I enjoy writing codes, and pursue cool code styles and coding tools.
 
