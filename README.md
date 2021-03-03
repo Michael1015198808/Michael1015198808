@@ -38,7 +38,9 @@ Fan of   <img height="20" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icon
 
 - 🀄 Japanese Mahjong <!-- :mahjong: -->
 
-- ![cover](https://en.wikipedia.org/wiki/Divinity:_Original_Sin_II#/media/File:Divinity_Original_Sin_2_cover_art.jpg) Divinity: Original Sin II ~~(Also known as TEM-8: Original Sin)~~(Play in English)
+- ![cover](https://upload.wikimedia.org/wikipedia/en/thumb/4/48/Divinity_Original_Sin_2_cover_art.jpg/220px-Divinity_Original_Sin_2_cover_art.jpg) Divinity: Original Sin II ~~(Also known as TEM-8: Original Sin)~~(Play in English)
+
+- ![cover](https://upload.wikimedia.org/wikipedia/en/thumb/6/6e/Sekiro_art.jpg/220px-Sekiro_art.jpg) Sekiro: Shadows Die Twice (Play in Chinese)
 
 <!--
 **Michael1015198808/Michael1015198808** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
