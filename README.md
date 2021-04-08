@@ -10,6 +10,10 @@ I'm interested in practical technologies as well.
 
 Fan of   <img height="20" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/python.svg" /> <img height="20" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/pytorch.svg" /> <img height="20" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/vim.svg" /> <img height="20" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linux.svg" />
 
+[![Github stats](https://github-readme-stats.vercel.app/api?username=michael1015198808&show_icons=true&count_private=True&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=michael1015198808&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
+
 ### Current Status
 
 #### 🌱 Studying <!-- :seedling: -->
@@ -34,7 +38,7 @@ Fan of   <img height="20" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icon
 
 - *America Oppose America* by Huning Wang
 
-#### 🎮 <!-- :video_game: -->
+#### 🎮 Playing <!-- :video_game: -->
 
 - 🀄 Japanese Mahjong <!-- :mahjong: -->
 
@@ -56,7 +60,3 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
-[![Github stats](https://github-readme-stats.vercel.app/api?username=michael1015198808&show_icons=true&count_private=True&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)](https://github.com/anuraghazra/github-readme-stats)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=michael1015198808&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
