@@ -12,9 +12,13 @@ I'm interested in practical technologies as well.
 
 I'm a fan of <img height="20" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/python.svg" /> <img height="20" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/pytorch.svg" /> <img height="20" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/vim.svg" /> <img height="20" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linux.svg" />
 
+<details>
+<summary>Statistics</summary>
+
 [![Github stats](https://github-readme-stats.vercel.app/api?username=michael1015198808&show_icons=true&count_private=True&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=michael1015198808&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
+</details>
 
 ### Current Status
 
@@ -29,11 +33,17 @@ I'm a fan of <img height="20" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/
 
 :cry: No reading recently.
 
-#### 🎮 Playing <!-- :video_game: -->
+<details>
+<summary>
+<h4>
+🎮 Playing <!-- :video_game: -->
+</h4>
+</summary>
 
 - ![cover of nioh](https://upload.wikimedia.org/wikipedia/zh/f/fd/Nioh_cover_art.jpg) Nioh(仁王、におう).
 - ![cover of PVZ2](https://upload.wikimedia.org/wikipedia/en/8/8f/Plants_vs_Zombies_2_logo.png) Plants vs. Zombies 2 (International Version).
 
+</details>
 <!--
 **Michael1015198808/Michael1015198808** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
