@@ -1,14 +1,16 @@
+Updated at 2022/12/29.
+
 ### Basic Info
 
-I'm an undergraduate at Nanjing University, major in Computer Science and Technology.
+I'm a PhD student at Peking University, major in Computer Science and Technology.
 
-Like many students in this major, I enjoy writing codes, and pursue cool code styles and coding tools.
+Like many students in this major, I enjoy writing codes, and pursue cool coding styles and tools.
 
-I like things that have beautiful forms. Thus, I'm interested in mathematics and functional programming languages and the math model behind them.
+I like things that have beautiful forms. Thus, I'm interested in mathematics, functional programming languages and the math model behind them.
 
 I'm interested in practical technologies as well.
 
-Fan of   <img height="20" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/python.svg" /> <img height="20" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/pytorch.svg" /> <img height="20" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/vim.svg" /> <img height="20" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linux.svg" />
+I'm a fan of <img height="20" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/python.svg" /> <img height="20" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/pytorch.svg" /> <img height="20" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/vim.svg" /> <img height="20" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linux.svg" />
 
 [![Github stats](https://github-readme-stats.vercel.app/api?username=michael1015198808&show_icons=true&count_private=True&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)](https://github.com/anuraghazra/github-readme-stats)
 
@@ -18,33 +20,19 @@ Fan of   <img height="20" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icon
 
 #### 🌱 Studying <!-- :seedling: -->
 
-- PyTorch & Graph Neural Network
-
-- Reinforcement learning
-
-- Things about creating a personal website (Details behind hexo, or other frameworks, like HTML, CSS, JavaScript and how they work together.)
-
-- Rust Programming Language
-
-- ~~installation of CUDA~~
+- Summary Generation (for modular program analysis).
+- Fault Localization.
+- JavaScript (especially parts concerning DOM and chromium).
+- Philosophy ([history of western philosophy taught in Mandarin](https://www.bilibili.com/video/BV1y64y1r7Mt)).
 
 #### 📘 Reading <!-- :blue_book: -->
 
-- *Platform Sutra* (Also known as Tanjing, 坛经 or Liuzu Tanjing, 六祖坛经)
-
-- *Tao Te Ching* (道德经, also known as Laozi老子)
-
-- *The Remains of the Day* by Kazuo Ishiguro (In English)
-
-- *America Oppose America* by Huning Wang
+:cry: No reading recently.
 
 #### 🎮 Playing <!-- :video_game: -->
 
-- 🀄 Japanese Mahjong <!-- :mahjong: -->
-
-- ![cover](https://upload.wikimedia.org/wikipedia/en/thumb/4/48/Divinity_Original_Sin_2_cover_art.jpg/220px-Divinity_Original_Sin_2_cover_art.jpg) Divinity: Original Sin II ~~(Also known as TEM-8: Original Sin)~~(Play in English)
-
-- ![cover](https://upload.wikimedia.org/wikipedia/en/thumb/6/6e/Sekiro_art.jpg/220px-Sekiro_art.jpg) Sekiro: Shadows Die Twice (Play in Chinese)
+- ![cover of nioh](https://upload.wikimedia.org/wikipedia/zh/f/fd/Nioh_cover_art.jpg) Nioh(仁王、におう).
+- ![cover of PVZ2](https://upload.wikimedia.org/wikipedia/en/8/8f/Plants_vs_Zombies_2_logo.png) Plants vs. Zombies 2 (International Version).
 
 <!--
 **Michael1015198808/Michael1015198808** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
