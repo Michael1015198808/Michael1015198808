@@ -1,4 +1,4 @@
-Updated at 2022/12/29.
+Updated at 2023.04.05.
 
 ### Basic Info
 
@@ -27,7 +27,7 @@ I'm a fan of <img height="20" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/
 - Summary Generation (for modular program analysis).
 - Fault Localization.
 - JavaScript (especially parts concerning DOM and chromium).
-- Philosophy ([history of western philosophy taught in Mandarin](https://www.bilibili.com/video/BV1y64y1r7Mt)).
+- Japanese.
 
 #### 📘 Reading <!-- :blue_book: -->
 
@@ -40,8 +40,17 @@ I'm a fan of <img height="20" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/
 </h4>
 </summary>
 
-- ![cover of nioh](https://upload.wikimedia.org/wikipedia/zh/f/fd/Nioh_cover_art.jpg) Nioh(仁王、におう).
-- ![cover of PVZ2](https://upload.wikimedia.org/wikipedia/en/8/8f/Plants_vs_Zombies_2_logo.png) Plants vs. Zombies 2 (International Version).
+- ![cover of Sekiro](https://upload.wikimedia.org/wikipedia/en/6/6e/Sekiro_art.jpg)
+    
+    Sekiro (隻狼、せきろう).
+    + 1 achievement away from the platinum trophy.
+    + Trying interesting mods (like [Resurrection](https://www.nexusmods.com/sekiro/mods/723)).
+- ![cover of Card Shark](https://cdn.cloudflare.steamstatic.com/steam/apps/1371720/header.jpg)
+    
+    Card Shark.
+- ![cover of Dark Souls III](https://upload.wikimedia.org/wikipedia/en/b/bb/Dark_souls_3_cover_art.jpg)
+    
+    Dark Souls III (ダークソウルIII).
 
 </details>
 <!--
